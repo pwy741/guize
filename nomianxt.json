@@ -1,6 +1,9 @@
 {
-    "notice": "需要网页解析才能看的那种",
-    "picUrl":"",
+    "notice": {
+        "title": "通知",
+        "desc": "",
+        "picUrl": ""
+    },
     "data": [
 {
     "title":"Q2电影网",

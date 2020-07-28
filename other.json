@@ -1,6 +1,9 @@
 {
-    "notice": "杂七杂八的规则",
-    "picUrl":"",
+    "notice": {
+        "title": "通知",
+        "desc": "",
+        "picUrl": ""
+    },
     "data": [
 {
     "title":"一个木函",

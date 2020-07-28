@@ -1,6 +1,9 @@
 {
-    "notice": "要MTV规则已修复，请重新导入更新。",
-    "picUrl":"",
+    "notice": {
+        "title": "通知",
+        "desc": "",
+        "picUrl": ""
+    },
     "data": [
 {
     "title":"好趣直播网",

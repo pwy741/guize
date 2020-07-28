@@ -1,6 +1,9 @@
 {
-    "notice":"影视熊测底挂了，可以删除规则了。",
-    "picUrl":"",
+    "notice": {
+        "title": "通知",
+        "desc": "",
+        "picUrl": ""
+    },
     "data": [
 {
     "title":"迅播影院",

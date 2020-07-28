@@ -1,7 +1,7 @@
 {
     "notice": {
         "title": "通知",
-        "desc": "先前往论坛http://haikuoshijie.cn/topic/1101导入集合，这里待更新规则。",
+        "desc": "1717资源网已不能用，删除即可。",
         "picUrl": ""
     },
     "data": [
@@ -206,13 +206,6 @@
     "author":"香雅情",
     "version":2,
     "updateText":"修复搜索规则",
-    "tips":"",
-    "rule":""
-},{
-    "title": "1717资源站",
-    "author":"香雅情",
-    "version":1,
-    "updateText":"更新日志",
     "tips":"",
     "rule":""
 },{
