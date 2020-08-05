@@ -160,20 +160,6 @@
     "tips":"http://kubozy.co/",
     "rule":""
 },{
-    "title": "[已失效]158资源网",
-    "author":"香雅情",
-    "version":-1,
-    "updateText":"",
-    "tips":"网站已与123资源网合并",
-    "rule":""
-},{
-    "title": "[已失效]首发资源网",
-    "author":"香雅情",
-    "version":-1,
-    "updateText":"‘‘规则失效，提醒你要删除了。’’",
-    "tips":"http://www.shoufazy.com/",
-    "rule":""
-},{
     "title": "麻花资源网",
     "author":"香雅情",
     "version":2,
@@ -223,7 +209,7 @@
     "tips":"http://api.mbaijx.com/",
     "rule":""
 },{
-    "title": "[已失效]8090资源网",
+    "title": "8090资源网",
     "author":"香雅情",
     "version":-1,
     "updateText":"‘‘规则失效，提醒你要删除了。’’",
